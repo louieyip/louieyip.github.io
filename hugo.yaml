@@ -1,13 +1,8 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: Louie Yip 🐝
+baseURL: "/"
+languageCode: "en-us"
+title: "Louie Yip 🐝"
 theme: ["ananke"]
 Paginate: 3
-
-params:
-  ananke_socials:
-    name: "twitter"
-    url: "https://twitter.com/GoHugoIO"
 
 markup:
   goldmark:
@@ -24,17 +19,14 @@ menu:
       url: /about/
       weight: 10
     - identifier: posts
-      name: "Posts"
+      name: "Blog posts"
       url: /posts/
       weight: 20
     - identifier: tags
       name: "Tags"
       url: /tags/
       weight: 30
-    - identifier: example
-      name: "example.org"
-      url: https://example.org
-      weight: 40
     - identifier: bluesky
       name: "Bluesky"
       url: "https://twitter.com/GoHugoIO"
+      weight: 40
