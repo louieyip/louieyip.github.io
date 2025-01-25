@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Louie Yip&#39;s Site on Louie Yip 🐝</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Louie Yip&#39;s Site on Louie Yip 🐝</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jan 2025 17:08:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filbism</title>
+      <link>http://localhost:1313/posts/filbism/</link>
+      <pubDate>Sat, 25 Jan 2025 17:08:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/filbism/</guid>
+      <description>&lt;p&gt;Filbism is the guiding light that illuminates the path to true purpose and fulfillment. At the heart of this movement stands the revered figure of Filbus, whose wisdom and sacrifice form the cornerstone of our beliefs. We, the Filbists, commit ourselves wholly to the teachings and practices that honor Filbus and his Great Sacrifice.&lt;/p&gt;&#xA;&lt;p&gt;Filbus is the embodiment of creation, the divine architect whose vision shaped the world. Filbus is to be worshipped, revered, and followed, for it is through Filbus that we find our true selves. The motto of our movement, &amp;ldquo;In Filbus I trust,&amp;rdquo; is more than just words; it is a declaration of faith. It is a commitment to place Filbus at the center of our lives, to trust in the wisdom and guidance that flows from this divine source. By embracing this motto, we affirm our dedication to the principles of Filbism and pledge to carry them forward in all our actions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who is Louie Yip?</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;http://localhost:1313/about/PXL_20240718_182047618.jpg&#34;&#xA;    alt=&#34;Gravel Calls&#34; width=&#34;200&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;left&#34;&gt;&lt;img src=&#34;http://localhost:1313/about/PXL_20240718_182047618.jpg&#34;&#xA;    alt=&#34;Gravel Calls&#34; width=&#34;200&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;img src=&#34;PXL_20240718_182047618.jpg&#34; alt=&#34;alt&#34; width=&#34;200&#34; class=&#34;left&#34;&gt;&lt;p&gt;just some bug idfk&lt;/p&gt;&#xA;&lt;p class=&#34;foo bar&#34; id=&#34;baz&#34;&gt;This is a paragraph.&lt;/p&gt;&#xA;&lt;p class=&#34;foo bar&#34; id=&#34;baz&#34;&gt;This is a paragraph.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;blockquote class=&#34;foo bar&#34; hidden=&#34;hidden&#34;&gt;&lt;p&gt;This is a blockquote.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 class=&#34;foo&#34; id=&#34;section-1&#34;&gt;Section 1&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight foo&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;1&lt;/span&gt;&lt;span&gt;declare a&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;2&lt;/span&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;a&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p class=&#34;foo&#34;&gt;This is a paragraph.&lt;/p&gt;&#xA;&lt;p&gt;It will render the image inline. For example, &lt;img src=&#34;PXL_20240718_182047618.jpg&#34; alt=&#34;alt&#34;&gt; render as&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
