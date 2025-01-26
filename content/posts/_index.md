@@ -1,6 +1,8 @@
 ---
-title: "Louie's Blog"
+title: "Blog Posts"
 description: ""
 featured_image: ""
 draft: false
 ---
+
+New stuff coming soon!

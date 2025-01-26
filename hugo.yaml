@@ -15,18 +15,18 @@ markup:
 menu:
   main:
     - identifier: about
-      name: "About me"
+      name: "About Me"
       url: /about/
       weight: 10
     - identifier: posts
-      name: "Blog posts"
+      name: "Blog Posts"
       url: /posts/
       weight: 20
-    - identifier: tags
-      name: "Tags"
-      url: /tags/
-      weight: 30
-    - identifier: bluesky
-      name: "Bluesky"
-      url: "https://twitter.com/GoHugoIO"
-      weight: 40
+#    - identifier: tags
+#      name: "Tags"
+#      url: /tags/
+#      weight: 30
+#    - identifier: bluesky
+#      name: "Bluesky"
+#      url: "https://twitter.com/GoHugoIO"
+#      weight: 40
