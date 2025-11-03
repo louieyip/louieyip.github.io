@@ -9,11 +9,13 @@ Hi! My name is Heiloi, but most people just call me Louie. I am currently a PhD 
 
 {{< figure src="/images/PXL_20241112_120400209.PORTRAIT.jpg" title="Picture of me at the Francis Crick Institute!" width="600" >}}
 
+### My Project
+
+I'm currently working on a project with the [Nityananda Lab of Newcastle University](https://viveknityananda.com/), looking into how bumblebees make use of active vision to recognise and discriminate different visual stimuli. In short, I'm training bumblebees to perform pattern discrimination tasks, and then I'm analysing the bees' flight movements as they complete the task. 
+
 ### My Background
 
-My academic journey began at Imperial College London, where I got a Bachelor's in Biology and Master's in Bioinformatics. After that, I was a research assistant at the Francis Crick Institute, where I worked with a neurophysiology lab to investigate multisensory coding in mice brains! 
-
-Of all the skills I learned as a biologist, I am most experienced in the field of **Computational Neuroscience**, using machine learning methods to study the information encoded in neural signals. 
+My academic journey began at Imperial College London, where I got a Bachelor's in Biology and Master's in Bioinformatics. After that, I was a research assistant at the Francis Crick Institute, where I worked with a neuroscience lab to investigate multisensory coding of audio and visual information in mice. 
 
 ### Interests & Hobbies
 
